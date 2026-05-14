@@ -36,7 +36,7 @@
     <iframe
       width="900"
       height="500"
-      src="https://www.youtube.com/embed/VuX_ziSs7jQ"
+      src="https://www.youtube.com/embed/VuX_ziSs7jQ?rel=0"
       title="YouTube video player"
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
