@@ -210,7 +210,7 @@ export default function App() {
             <iframe
               width="900"
               height="500"
-              src="https://www.youtube.com/embed/XdrmiWNFgZo"
+              src="https://youtu.be/VuX_ziSs7jQ?si=883vjdsd-Ce5d3g9"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
