@@ -207,7 +207,7 @@ export default function App() {
 
             <div style={{ textAlign: "center", marginTop: "40px" }}>
               <iframe
-                src="https://www.youtube.com/embed/VuX_ziSs7jQ"
+                src="https://www.youtube.com/embed/O2QTkrpMhlo"
                 width="900"
                 height="500"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
